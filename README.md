@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning programming in html, css and js
 
-- 👯 I’m looking to collaborate on new projects on any topic in particular.
+- 👯 I’m looking to collaborate on new projects on some technology topic.
 
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/aurora-mandujano-057120119/), [Instagram](https://www.instagram.com/dreamer090502/) or [Facebook](https://www.facebook.com/aurora.amalinalli)
   
